@@ -23,7 +23,7 @@ Input recording works a little bit differently. To use it, hold DPad down while 
 
 # Input Display (beta)
 
-I've also included a file called Gamecube.exe in the repository. If you run that, it should open a window on your computer that displays gamecube controller inputs from the arduino'd controller in real time. However, I haven't tested it on any computer besides my own, and there are definitely some bugs in the code still, so no promises!
+I've also included a file called gamecube.exe in the repository. It's located inside one of the folders, either the 32 bit or 64 bit version. If you run that, it should open a window on your computer that displays gamecube controller inputs from the arduino'd controller in real time. I haven't tested it on any computer besides my own, and there are definitely some bugs in the code still, so no promises!
 
 # Contact
 
