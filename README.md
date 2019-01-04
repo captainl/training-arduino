@@ -25,6 +25,7 @@ Input recording works a little bit differently. To use it, hold DPad down while 
 
 I've also included a file called gamecube.exe in the repository. It's located inside one of the folders, either the 32 bit or 64 bit version. If you run that, it should open a window on your computer that displays gamecube controller inputs from the arduino'd controller in real time. I haven't tested it on any computer besides my own, and there are definitely some bugs in the code still, so no promises!
 
+![gamecube.exe](https://i.imgur.com/KWxFeNU.png)
 # Contact
 
 If anything does or doesn't work for you, please let me know! I've never done a project like this before so I definitely have a lot to learn, and any feedback can only help things get better in the future. To get notified for all of the latest updates to this project, you can follow me on twitter [@captainlpika](https://twitter.com/captainlpika).
