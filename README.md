@@ -4,7 +4,7 @@ In order to use this software, you'll need an arduino nano soldered to your a ga
 
 If you are going to embed the Arduino in your controller like I did, you could follow [this guide](https://imgur.com/gallery/LFWDg), though it should be noted I have since learned that you should use a logic level converter as well. Even if you use a different guide, in order for this particular hex file to work, you need to make sure you use the same pinout as that guide recommends (2 for the console, 3 for the controller).
 
-Once you have an Arduino, you'll want to load the training mode hex file on it. It will be included if you download an entire zip file of this repository. To load it on to your arduino, you can use a tool like [Xloader](http://xloader.russemotto.com/). Make sure you select `Duemilanove/Nano(ATmega328)` as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in).
+Once you have an Arduino, you'll want to load the training mode hex file on it. Select "Clone or Download" from the file browser above, and then click "Download as ZIP". The most important file is `arduino_nano_training_mod_v1.hex`. To load it on to your arduino, you can use a tool like [Xloader](http://xloader.russemotto.com/). Make sure you select `Duemilanove/Nano(ATmega328)` as the device, and make sure you're using the correct COM port (it should be the one that shows up when you plug your board's USB cable in).
 
 # Usage
 
