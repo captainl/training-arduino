@@ -27,4 +27,4 @@ I've also included a file called Gamecube.exe in the repository. If you run that
 
 # Contact
 
-If anything does or doesn't work for you, please let me know! I've never done a project like this before so I definitely have a lot to learn, and any feedback can only help things get better in the future. To get notified for all of the latest updates to this project, you can follow me on twitter (@captainlpika)[https://twitter.com/captainlpika].
+If anything does or doesn't work for you, please let me know! I've never done a project like this before so I definitely have a lot to learn, and any feedback can only help things get better in the future. To get notified for all of the latest updates to this project, you can follow me on twitter [@captainlpika](https://twitter.com/captainlpika).
