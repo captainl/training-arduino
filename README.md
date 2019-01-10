@@ -19,6 +19,10 @@ The best way to get started with your new training dummy is in training mode. Th
   - no escape option (default)
   - mash airdodge
   - mash jump
+  - mash down special
+  - buffer up b out of shield (using the up b option select)
+  
+You can also now wire physical buttons to pins 4 and 5 on the nano, which will correspond to dpad left and right respectively.
 
 Input recording works a little bit differently. To use it, hold DPad down while you execute a series of inputs (no more than 400 frames, so keep it under about 7 seconds). Then to replay it on a loop, press DPad up. You can press DPad up again to stop playback mode. One thing to keep in mind is that due to the way the game polls inputs, your playback might be _slightly_ different than what you originally recorded, but for simple recordings it works quite fine.
 
