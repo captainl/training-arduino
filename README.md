@@ -14,6 +14,7 @@ The best way to get started with your new training dummy is in training mode. Th
   - no DI (default)
   - random left/right DI
   - full random DI
+  - set DI (hold the control stick while you select this and it will continue to hold that position)
 - dpad right: cycle escape options
   - no escape option (default)
   - mash airdodge
