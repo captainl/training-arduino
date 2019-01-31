@@ -26,6 +26,10 @@ You can also now wire physical buttons to pins 4 and 5 on the nano, which will c
 
 Input recording works a little bit differently. To use it, hold DPad down while you execute a series of inputs (no more than 400 frames, so keep it under about 7 seconds). Then to replay it on a loop, press DPad up. You can press DPad up again to stop playback mode. One thing to keep in mind is that due to the way the game polls inputs, your playback might be _slightly_ different than what you originally recorded, but for simple recordings it works quite fine.
 
+# Troubleshooting
+
+If you're having issues with the current version of the modpack, try using v1 here: https://github.com/captainl/training-arduino/blob/ddcd0f633514941f98d77c85d8735b83e5c1bc93/arduino_nano_training_mod_v1.hex
+
 # Input Display (beta)
 
 I've also included a file called gamecube.exe in the repository. It's located inside one of the folders, either the 32 bit or 64 bit version. If you run that, it should open a window on your computer that displays gamecube controller inputs from the arduino'd controller in real time. I haven't tested it on any computer besides my own, and there are definitely some bugs in the code still, so no promises!
